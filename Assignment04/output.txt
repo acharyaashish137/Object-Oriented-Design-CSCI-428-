@@ -1,0 +1,8 @@
+Total salary for senior: $62,089,838.68
+Average salary for senior: $189,298.29
+Total salary for entry: $16,510,709.58
+Average salary for entry: $49,881.30
+Total salary for middle: $32,473,411.94
+Average salary for middle: $95,229.95
+Total salary for all employees: $111,073,960.20
+Average salary for all employees: $111,073.96
